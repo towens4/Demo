@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3J/LgP5ultkSUkKv15PxIttakG+v/W3SzpNeAWWzqOX5MJX+3aozJV8Pr0ZWm8XcSes2Vn08EEVuWt1BlPBddQ==",
+  "dgSpecHash": "nTk+qhZkzpSfrwDSBLlCFciwyJcWXPiYF8IfvkcfvToe2pdcgKeZHDcB7jtLXiI/yclAkVVz4ml/XBKnJLHe7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tim\\source\\repos\\MVCDemo\\MVCDemo\\MVCDemo.csproj",
+  "projectFilePath": "C:\\Users\\Tim\\Documents\\GitHub\\Demo\\MVCDemo\\MVCDemo\\MVCDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tim\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\Tim\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
