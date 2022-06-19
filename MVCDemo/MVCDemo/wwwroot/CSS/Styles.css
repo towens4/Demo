@@ -57,8 +57,14 @@ body {
 .owl-theme .owl-nav [class*=owl-] {
     color: #ffffff;
     font-size: 39px;
-    background: #000000;
+    background: hsla(0, 0%, 0%, 30%);
     border-radius: 50%;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    
+    background: hsla(0, 0%, 0%, 60%);
+    
 }
 
 .owl-carousel .prev-carousel:hover {
@@ -145,5 +151,20 @@ li a:hover {
 
 .item img{
     height: 75%;
+    background-color: azure;
+}
+
+.category-item {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 1px 3px 5px grey;
+    margin-right: 5.5em;
+    margin-bottom: 1em;
+}
+
+.category-item img {
+    height: 20px;
+    width: 20px;
     background-color: azure;
 }
